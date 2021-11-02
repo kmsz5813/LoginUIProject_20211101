@@ -46,6 +46,7 @@
                 android:layout_height="wrap_content"
                 android:background="#00000000"
                 android:textColor="#FFFFFF"
+                android:inputType="textEmailAddress"
                 android:textColorHint="#DFDFDF"
                 android:hint="이메일"/>
 
